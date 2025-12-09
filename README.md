@@ -2,9 +2,10 @@
 <h4 align="center"><small>Estudiante de Ing. en Ciencias de la Computación</small></h4>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleParedes24&layout=compact&langs_count=8&hide=dockerfile&theme=tokyonight&hide_border=true" width="30%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=NicoleParedes24&show_icons=true&theme=tokyonight&hide_border=true" width="45.2%" />
+  <img src="https://github-readme-stats-git-masterorgs.vercel.app/api/top-langs/?username=NicoleParedes24&layout=compact&langs_count=8&hide=dockerfile&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats-git-masterorgs.vercel.app/api?username=NicoleParedes24&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
 
 <br>
 
