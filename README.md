@@ -6,7 +6,6 @@
   <img src="https://github-readme-stats-git-masterorgs.vercel.app/api?username=NicoleParedes24&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-
 <br>
 
 <small>
